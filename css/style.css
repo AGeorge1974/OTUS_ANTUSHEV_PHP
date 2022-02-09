@@ -1,0 +1,58 @@
+body {
+    font-family: "Tahoma", sans-esrif;
+}
+
+
+h2 {
+    color: blue;
+    background-color: olive;
+}
+h3 {
+    color: Agua;
+    background-color: olive;
+}
+h4 {
+    color: SpringGreen;
+    background-color: olive;
+}
+h5 {
+    color: Gold;
+    background-color: olive;
+}
+h6 {
+    color: blue;
+    background-color: olive;
+}
+
+/* обращение по селектору класса */
+.h1-red {
+    color: red;
+    font-size: 48px; /* размер шрифта */
+    font-weight: 400; /* толщина шрифта */
+    line-height: 48px; /* высота строки */
+}
+
+
+p {
+    background-color: ForestGreen;
+}
+
+div {
+    background-color: DarkGray;
+}
+
+
+/* обращение по селектору класса */
+#img-foto {
+    width: 175px;
+  height: 240ph
+}
+
+
+/* обращение по селектору тега */
+img {
+    width: 500px;
+}
+
+
+
